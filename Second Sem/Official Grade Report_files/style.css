@@ -1,0 +1,275 @@
+
+BODY, TD {
+	FONT-WEIGHT: normal; font-size: 8pt; MARGIN: 0px; COLOR: #000; LINE-HEIGHT: 1.4em; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+A:link {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+A:hover {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+H1 {
+	FONT-SIZE: 2em; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; COLOR: #000; LINE-HEIGHT: 1.4em; LETTER-SPACING: -0.08em
+}
+H2 {
+	FONT-SIZE: 1.2em; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; COLOR: #e00122
+}
+H3 {
+	MARGIN-TOP: 0px; FONT-SIZE: 1em; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; COLOR: #000; PADDING-TOP: 0px
+}
+H4 {
+	MARGIN-TOP: 0px; FONT-SIZE: 1em; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 0px; COLOR: #000; PADDING-TOP: 0px
+}
+HR {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+ 
+UL {
+	LIST-STYLE: disc url(https://www.uc.edu/images/ucMain/arrowGray10x10.gif) outside; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+UL LI {
+	DISPLAY: list-item
+}
+ 
+UL LI A:link {
+	COLOR: #000; TEXT-DECORATION: none
+}
+UL LI A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+UL LI A:hover {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+#ucLinks {
+	FONT-WEIGHT: bold; COLOR: #000; TEXT-DECORATION: none; font-size:1.0em; LINE-HEIGHT: 1.4em;
+}
+#ucLinks A:link {
+	FONT-WEIGHT: bold; COLOR: #000; TEXT-DECORATION: none
+}
+#ucLinks A:visited {
+	FONT-WEIGHT: bold; COLOR: #000; TEXT-DECORATION: none
+}
+#ucLinks A:hover {
+	FONT-WEIGHT: bold; COLOR: #e00122; TEXT-DECORATION: none
+}
+.Spotlight {
+	COLOR: #000
+}
+.Spotlight A:link {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.Spotlight A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.Spotlight A:hover {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+.ImageCaptionCol3 {
+	FONT-SIZE: 0.8em; PADDING-BOTTOM: 5px; COLOR: #666; LINE-HEIGHT: 1.2em; PADDING-TOP: 2px; LETTER-SPACING: 0.1em; TEXT-ALIGN: center
+}
+.ImageCaptionCol3 A:link {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.ImageCaptionCol3 A:visited {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.ImageCaptionCol3 A:hover {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+.ImageCaption {
+	FONT-SIZE: 0.8em; COLOR: #666; LINE-HEIGHT: 1em; LETTER-SPACING: 0.2em; TEXT-ALIGN: right
+}
+.SecondaryPageLeftNavCol {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 6px; PADDING-TOP: 10px
+}
+.DottedColumnSeparator {
+	BACKGROUND-POSITION: center 50%; BACKGROUND-IMAGE: url("https://www.uc.edu/images/ucMain/tileDot2.jpg"); BACKGROUND-REPEAT: repeat-y
+}
+.SecondaryPageCol2 {
+	PADDING-RIGHT: 16px; PADDING-LEFT: 4px; PADDING-TOP: 0px
+}
+#masthead {
+	MARGIN-TOP: 0px; FONT-WEIGHT: bold; FONT-SIZE: 1.5em; COLOR: #fff; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#masthead A:link {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#masthead A:visited {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+#masthead A:hover {
+	COLOR: #fff; TEXT-DECORATION: underline
+}
+#Footer {
+	PADDING-LEFT: 5px; FONT-SIZE: 0.78em; COLOR: #000; PADDING-TOP: 5px 
+}
+#Footer A:link {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+#Footer A:visited {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+.whiteUcLinks {
+	PADDING-LEFT: 27px; FONT-WEIGHT: bold; LINE-HEIGHT: 1.8em; PADDING-TOP: 21px
+}
+.whiteUcLinks A:link {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.whiteUcLinks A:visited {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.whiteUcLinks A:hover {
+	COLOR: #fff; TEXT-DECORATION: underline
+}
+.NewsHeadlineDate {
+	FONT-WEIGHT: bold; FONT-SIZE: 0.8em; COLOR: #999; FONT-STYLE: normal
+}
+.LeftRightPadding {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px
+}
+.NewsBullets UL {
+	LIST-STYLE: disc url(https://www.uc.edu/images/ucMain/arrow_right_red.gif) outside; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+.NewsBullets UL LI {
+	DISPLAY: list-item
+}
+.NewsBullets UL LI A:link {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.NewsBullets UL LI A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.NewsBullets UL LI A:hover {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+.bannerGradient {
+	BACKGROUND-IMAGE: url("https://www.uc.edu/images/ucMain/uc_2nd_398x18_gradient.jpg"); BACKGROUND-REPEAT: repeat-x
+}
+.HyphenatedBullet UL {
+	LIST-STYLE: disc url(https://www.uc.edu/images/ucMain/hyphen.gif) outside; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+.HyphenatedBullet UL LI {
+	DISPLAY: list-item
+}
+.HyphenatedBullet UL LI A:link {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.HyphenatedBullet UL LI A:visited {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.HyphenatedBullet UL LI A:hover {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+.ShowLink UL {
+	LIST-STYLE: disc url(https://www.uc.edu/images/ucMain/arrowGray10x10.gif) outside; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+.ShowLink UL LI {
+	DISPLAY: list-item
+}
+.ShowLink UL LI A:link {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+.ShowLink UL LI A:visited {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+.ShowLink UL LI A:hover {
+	COLOR: #e00122; TEXT-DECORATION: underline
+}
+/* Small white top navbar links */
+a.navbarWhiteSmall {
+	color: #ffffff;
+	font-size: 85%;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover.navbarWhiteSmall {
+color: #e3e3e3;
+}								
+/* Small black top navbar links */
+a.navbarBlackSmall {
+	color: #000000;
+	font-size: 85%;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover.navbarBlackSmall {
+	color: #fc1921;
+	text-decoration: none;
+}
+/* Black left navbar links */								
+a.navbarBlack {
+	color: #000000;
+	text-decoration: none;
+}								
+ left navbar red hover */								
+a:hover.navbarBlack {
+	color: #fc1921;
+	text-decoration: underline;
+}
+/* Red left navbar links */								
+a.navbarRed {
+	color: #fc1921;
+	text-decoration: none;
+}								
+a:hover.navbarRed  {
+	color: black;
+}
+.PurpleText { color: #9966cc; }
+
+.anylinkcss{ 
+position:absolute; 
+visibility: hidden; 
+border:1px solid black; 
+border-bottom-width: 0; 
+font:normal 10px Verdana; 
+line-height: 12px; 
+z-index: 100; 
+background-color: #a2daf0; 
+width: 205px; 
+font-color:white; 
+}
+.anylinkcss a{ 
+width: 100%; 
+display: block; 
+text-indent: 3px; 
+border-bottom: 1px solid black; 
+padding: 1px 0; 
+text-decoration: none; 
+font-weight: bold; 
+text-indent: 5px; 
+}
+.anylinkcss a:visited{ 
+text-decoration: none; 
+}
+.anylinkcss a:hover{ 
+/*hover background color*/ 
+background-color: black; 
+color: white; 
+text-decoration: underline; 
+}
+.GlobalNav, .GlobalNavLeftSpacer
+{
+	background: #000;
+	float: left;
+	width: 15%;
+	height: 24px;
+}
+.GlobalNavLeftSpacer
+{
+	width: 4%;
+}
+.ApplicationName
+{
+	color:#FFF;
+	float:right;
+	font-size:30px;
+	margin-right:30px;
+	margin-top:30px;
+}
